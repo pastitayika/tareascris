@@ -1,0 +1,15 @@
+haz los siguientes codigos:
+
+
+(1) haz un codigo que te pregunte tu nombre y apellido (separados) 
+y despues los junte y losa imprima en pantalla (nombre.py)
+
+(2) haz un codigo de te pregunte 2 numeros (separados)
+para que despues los sume y los imprima en pantalla (suma.py)
+
+(3) haz un programa que te pida ingfresar una cantidad de minutos para despues
+transformarlos a segundos ( es muy simple, usa logica matematicas) (minutoAsegundo.py)
+
+(4) haz un programa que te pregunte tu edad y si esta es mayor a 18 te diga 
+que eres mayor de edad, de lo contrario que eres menor y te insulte por serlo
+(edad.py)
